@@ -3,6 +3,7 @@
 <hz2>Tiny's Leven</h2>
 </head>
 <body>
-  <b>Een dag Tiny volgen.</b>
+  <br></br>
+ <b>Een dag Tiny volgen.</b>
 <p></p>
 </body>
