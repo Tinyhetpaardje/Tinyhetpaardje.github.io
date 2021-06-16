@@ -1,6 +1,13 @@
 # Tinyhetpaardje.github.io
 <head>
 <h2>Tiny's Leven</h2>
+ <style>
+  body {
+  text-align: center; }
+background: black;
+color-text: white;
+}
+   </style>
 </head>
 <body>
   <br>     
